@@ -1,4 +1,4 @@
-# Sentiment Analysis on Amazon
+# Sentiment Analysis and Image Classification on Amazon
 In this project, we used the Amazon reviews and advertisements data gathered by the project owner to answer two different DL-based problems in a group work.
 My main contribution to the project was done in the second part.
 
